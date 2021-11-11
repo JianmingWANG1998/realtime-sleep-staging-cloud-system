@@ -13,7 +13,7 @@ This project is about deploying a Django framework in the Alibaba cloud with som
 * Baseline Model 
 
 ## Work Plan
-![image](https://github.com/DataconTom/realtime-sleep-staging-cloud-system/edit/main/program_planning.png)
+![image](https://github.com/DataconTom/realtime-sleep-staging-cloud-system/edit/main/program_plan.jpg)
 
 ## Notes
 #### Reference
